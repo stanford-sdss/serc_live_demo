@@ -6,7 +6,7 @@ Welcome to the SDSS Center for Computing! We provide many computing resources in
 1. Open Interactive Instance, pointing to Oak
 2. Create a New Notebook, and use Globus to confirm the notebook file saved in Oak
 3. Clone this GitHub repo into Oak and interact using `serc`
-4. Run some Code, and save the outcomes to Oak
+4. Run an [example notebook](https://github.com/stanford-sdss/serc_live_demo/blob/main/notebooks/interactive_demo.ipynb), and save the outcomes to Oak
 
 ### Do you have any questions? 
 Please reach out to us at [sdss-compute@stanford.edu](mailto:sdss-compute@stanford.edu). 
